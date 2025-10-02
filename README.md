@@ -6,19 +6,20 @@ El objetivo es aplicar conocimientos de **procesamiento de datos, bases de datos
 ---
 
 ## 📂 Contenido
-- **Módulo 1:** Fundamentos de la computación en la nube  
-- **Módulo 2:** Almacenamiento y servicios cloud  
-- **Módulo 3:** Servicios de cómputo distribuidos  
-- **Módulo 4:** Bases de datos en la nube  
-- **Módulo 5:** Movimiento de datos (ETL con Glue)  
-- **Módulo 6:** Procesamiento distribuido (EMR, Spark, Hadoop)  
-- **Módulo 7:** Procesamiento sin servidor (Lambda, API Gateway)  
-- **Módulo 8:** Streaming de datos (NiFi, Kinesis, Kafka)  
-- **Módulo 9:** Proyecto final y portafolio  
+- **Módulo 1:** Orientación al perfil de especialidades y metodología del curso
+- **Módulo 2:** Fundamentos de programación Python para ingenieros de datos 
+- **Módulo 3:** Obtención y preparación de datos 
+- **Módulo 4:** Bases de datos para ingenieros de datos
+- **Módulo 5:** Fundamentos de Arquitectura y Modelamiento de Datos 
+- **Módulo 6:** Machine Learning para Ingenieros de datos  
+- **Módulo 7:** Introducción al procesamiento distribuido y sistemas bigdata 
+- **Módulo 8:** Integración de datos  
+- **Módulo 9:** Tecnología cloud para ingenieros de datos
+- **Módulo 10:** Desarrollo de portafolio para especialidades
 
 ---
 
-## ⚙️ Tecnologías utilizadas
+## ⚙️ Tecnologías
 - **Lenguajes:** Python, SQL  
 - **Cloud:** AWS (S3, RDS, DynamoDB, Redshift, Lambda, Glue, EMR)  
 - **Big Data:** Spark, Hadoop, Hive, Kafka  
@@ -33,4 +34,10 @@ Eduardo Fuentes Villalobos
 
 ---
 
+📌 Notas
+
+Este portafolio se irá actualizando a medida que avance el Bootcamp.
+Feedback y sugerencias son bienvenidos.
+
+---
 
